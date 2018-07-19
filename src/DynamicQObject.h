@@ -3,7 +3,7 @@
 
 #include <node.h>
 #include <QObject>
-#include <internal/qmetaobjectbuilder_p.h>
+#include <QtCore/private/qmetaobjectbuilder_p.h>
 #include "brig.h"
 
 namespace Brig {
